@@ -4,14 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e069dd-135c-42bb-8666-d1f43f980082" name="Changes" comment="" />
+    <list default="true" id="b3e069dd-135c-42bb-8666-d1f43f980082" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/file1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/file1.pub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/pt2024_30227_constantin_alexandru_assignment_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/src/main/java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/src/main/java/polynomial/Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/src/main/java/polynomial/Operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/src/main/java/polynomial/Polynom.java" beforeDir="false" afterPath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/src/main/java/polynomial/Polynom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/src/test/java/ro/tuc/tp/OperationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/src/test/java/ro/tuc/tp/OperationsTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectColorInfo">{
@@ -45,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711400798459</updated>
       <workItem from="1711400799585" duration="418000" />
-      <workItem from="1711402676268" duration="983000" />
+      <workItem from="1711402676268" duration="645000" />
     </task>
     <servers />
   </component>

@@ -4,68 +4,139 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e069dd-135c-42bb-8666-d1f43f980082" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/file1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/file1.pub" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment" beforeDir="false" afterPath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/src/main/java/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/src/main/java/polynomial/Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/src/main/java/polynomial/Operations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/src/main/java/polynomial/Polynom.java" beforeDir="false" afterPath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/src/main/java/polynomial/Polynom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/src/test/java/ro/tuc/tp/OperationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment/src/test/java/ro/tuc/tp/OperationsTest.java" afterDir="false" />
+    <list default="true" id="88bcb896-80d1-40fb-8af5-4c87797a4c7e" name="Changes" comment="Predare Proiect">
+      <change afterPath="$PROJECT_DIR$/file1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file1.pub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt2024_30227_constantin_alexandru_assignment_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/polynomial/Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/polynomial/Operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/polynomial/Polynom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/polynomial/Polynom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ro/tuc/tp/OperationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ro/tuc/tp/OperationsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PT2024_30227_constantin_alexandru_Assignment" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$/pt2024_30227_constantin_alexandru_assignment_1" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="2eCFkkqd7ZQyMXtWAFiOUBw0b2h" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2dEHA5pxfAAF10ag4h70nCjcNrK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/PT2024_30227_Constantin_Alexandru/Polynomial-Calculator",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_directory_selection": "C:/PT2024_30227_Constantin_Alexandru/PT2024_30227_Constantin_Alexandru_Assignment/src/main/java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/PT2024_30227_Constantin_Alexandru/PT2024_30227_Constantin_Alexandru_Assignment/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="polynomial" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PT2024_30227_Constantin_Alexandru\PT2024_30227_Constantin_Alexandru_Assignment\src\main\java\calculator" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b3e069dd-135c-42bb-8666-d1f43f980082" name="Changes" comment="" />
-      <created>1711400798459</created>
+      <changelist id="88bcb896-80d1-40fb-8af5-4c87797a4c7e" name="Changes" comment="" />
+      <created>1709566173872</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1711400798459</updated>
-      <workItem from="1711400799585" duration="418000" />
-      <workItem from="1711402676268" duration="645000" />
+      <updated>1709566173872</updated>
+      <workItem from="1709566174873" duration="22884000" />
+      <workItem from="1710093771052" duration="21293000" />
+      <workItem from="1710339171396" duration="18727000" />
+      <workItem from="1710605364882" duration="24352000" />
+      <workItem from="1710756582478" duration="2446000" />
+      <workItem from="1711385154953" duration="1529000" />
     </task>
+    <task id="LOCAL-00001" summary="ultima">
+      <option name="closed" value="true" />
+      <created>1710667788195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710667788195</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Predare Proiect">
+      <option name="closed" value="true" />
+      <created>1710717395450</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710717395450</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ultima" />
+    <MESSAGE value="Predare Proiect" />
+    <option name="LAST_COMMIT_MESSAGE" value="Predare Proiect" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
